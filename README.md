@@ -1,4 +1,5 @@
 # lualine.nvim
+TODO: review this Repo before use
 
 <!-- panvimdoc-ignore-start -->
 
